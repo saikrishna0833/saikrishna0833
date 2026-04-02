@@ -13,7 +13,7 @@ Programming & Scripting Python · C · C++
 
 ProjectDescriptionToolsBUFx12f Standard CellSchematic-to-layout design of a 12× drive-strength buffer on ASAP7 7nm FinFET. DRC/LVS clean, PEX timing validated, ready for integration.Cadence Virtuoso 
 
-SpectreAligner IP VerificationUVM testbench achieving 95%+ functional coverage. 15+ coverage points, constrained-random stimulus, self-checking scoreboards. Reduced verification cycles by 30%.SystemVerilog · UVM 1.2AXI4 Slave ControllerFully compliant AXI4 Slave with channel-level FSMs for AW, W, B, AR, R channels. Synthesizable RTL integrated in FPGA testbench.SystemVerilog · Vivado
+Aligner IP Verification ,UVM testbench achieving 95%+ functional coverage. 15+ coverage points, constrained-random stimulus, self-checking scoreboards. Reduced verification cycles by 30%.SystemVerilog · UVM 1.2AXI4 Slave ControllerFully compliant AXI4 Slave with channel-level FSMs for AW, W, B, AR, R channels. Synthesizable RTL integrated in FPGA testbench.SystemVerilog · Vivado
 
 🎓 Education
 
